@@ -1,4 +1,3 @@
-# Parlante Bluetooth con Radio FM
 # Parlante Bluetooth y Radio FM con ESP32
 
 Este proyecto consiste en un parlante que puede funcionar en dos modos: **Bluetooth** y **Radio FM**. El sistema está controlado por un **ESP32** y utiliza un módulo de radio **TEA5767** para la funcionalidad de radio FM. El parlante permite alternar entre los modos Bluetooth y Radio FM mediante un botón, y la frecuencia de la radio se ajusta mediante un encoder rotatorio. La información de la frecuencia actual se muestra en una pantalla LCD.
